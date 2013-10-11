@@ -1,7 +1,7 @@
 
 
 Layout Exercise, Class 5 6/6 (already?!)
-Box Model and Positioning
+jQuery!
 
 
 ************
