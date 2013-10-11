@@ -1,14 +1,13 @@
 
 
-Layout Exercise, Class 5 6/6 (already?!)
-jQuery!
+Learn jQuery - it's fun! 
 
 
 ************
 Instructions
 ************
 
-1. Make changes to the page using jQuery.
+Make changes to the page using jQuery.
 
 
 ******
@@ -33,14 +32,12 @@ Level 2
 4. Make all of the above bold
 
 
-
 Level 3
 -------
 1. Make an image fly across the screen
 2. Fade in the picture when the page loads without the content jumping
 3. Create a tabbed interface using jQuery UI
 4. Make a something happen every two seconds
-
 
 
 Level 4
@@ -52,6 +49,7 @@ Level 4
 
 
 
-Incredible Cray Cray Ultimate Bonus
+Incredible Cray-Cray Ultimate Bonus
 -----------------------------------
-Draw a dog using the HTML5 canvas element
+Draw a something using the HTML5 canvas element
+
