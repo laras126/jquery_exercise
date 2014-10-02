@@ -1,13 +1,11 @@
 
 
-Learn jQuery - it's fun! 
+# Learn jQuery - it's fun! 
 
 
-************
-Instructions
-************
+## Instructions
 
-Make changes to the page using jQuery. They get harder as you go. No adding classes or IDs!
+#### Complete these tasks using jQuery. No adding classes or IDs!
 
 (but...there's a bug. Where art thou, jQuery?)
 
