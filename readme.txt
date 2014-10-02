@@ -7,49 +7,17 @@ Learn jQuery - it's fun!
 Instructions
 ************
 
-Make changes to the page using jQuery.
+Make changes to the page using jQuery. They get harder as you go. No adding classes or IDs!
 
+(but...there's a bug. Where art thou, jQuery?)
 
-******
-Tasks
-******
-(FYI: these are just guidelines. Do whatever you want!)
-
-
-Level 1
--------
-1. Change the page title text
-2. Make the second paragraph's text green
-3. Make a button that changes the background
-4. Make the page name blue when hovered over
-
-
-Level 2
--------
-1. Add another paragraph to ".quotes"
-2. Use a jQuery plugin
-3. Find all words "the" in the file, and replace them with "HELLO" 
-4. Make all of the above bold
-
-
-Level 3
--------
-1. Make an image fly across the screen
-2. Fade in the picture when the page loads without the content jumping
-3. Create a tabbed interface using jQuery UI
-4. Make a something happen every two seconds
-
-
-Level 4
--------
-1. Make a chain of 10 actions on a single selector
-2. Create a text input where you can replace the h1 title of the page
-3. Use a callback function
-4. Add a Google map to the page using the Google Maps JavaScript API
-
-
-
-Incredible Cray-Cray Ultimate Bonus
------------------------------------
-Draw a something using the HTML5 canvas element
-
+1. 	Change the page title text's font
+2. 	Make a button that changes the background color
+3. 	Change Snow White's picture when you hover over her
+4. 	Add a horizontal line after all of the paragraphs
+5. 	Make something happen every two seconds
+6. 	Make the text of the first paragraph the same as the last paragraph
+7. 	Make a text box, and change the background to the value of that text box when the button from #3 is clicked
+8. 	If the background color is green, change the image and if it's not green, keep the original image
+9. 	Use a jQuery plugin
+10. Make the picture draggable using jQuery UI
